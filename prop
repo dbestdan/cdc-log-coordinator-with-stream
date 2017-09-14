@@ -1,0 +1,10 @@
+no_of_set=1
+no_of_experiment=1
+experiment_1=sleepDuration_20_runDuration_20
+experiment_2=sleepDuration_80_runDuration_2
+experiment_3=sleepDuration_320_change_50_runDuration_1
+experiment_4=sleepDuration_320_change_1000_runDuration_1
+experiment_5=sleepDuration_1280_change_50_runDuration_1
+url=jdbc:postgresql://pcnode2:5432/benchmarksql
+user=benchmarksql
+password=benchmarksql
